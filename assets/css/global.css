@@ -7,6 +7,10 @@ body {
     background-color: #f6f8fc;
 }
 
+a {
+    text-decoration: none;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
@@ -22,3 +26,7 @@ body {
         border-radius: 1rem;
     }
 }
+
+
+
+
